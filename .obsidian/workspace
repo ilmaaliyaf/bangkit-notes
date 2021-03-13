@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "62b75b1bf56bb957",
+        "id": "ce2b90000ae34524",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+            "file": "VPNs and Proxies.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b92fcde8768e5ad7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "VPNs and Proxies.md",
             "mode": "preview"
           }
         }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "routabl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +59,22 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "929e388d5c40b601",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d977156fcc956b4",
@@ -69,12 +90,33 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+                "file": "VPNs and Proxies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a04ac6bf521597f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27f3b41fdfd23927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VPNs and Proxies.md"
               }
             }
           }
@@ -86,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "VPNs and Proxies.md",
     "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__.md",
-    "Coursera - Google IT Support Professional Certificate/C5 - IT Security/defenses againts the digital dark arts.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Subnetting.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Routing.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Physical layer.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Networking devices.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Network layer.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/IP address.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Data link layer.md"
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/Name Resolution.md",
+    "Dynamic Host Configuration Protocol.md",
+    "Network Address Translation.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 2/IP address.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 2/Network layer.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 1/Data link layer.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 3/Transport layer.md",
+    "Untitled.md"
   ]
 }

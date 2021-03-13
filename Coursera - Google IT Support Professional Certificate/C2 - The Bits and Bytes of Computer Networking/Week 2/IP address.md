@@ -7,6 +7,8 @@ DHCP, dynamic host control process
 Dynamic IP address
 Static IP address
 
+Finite number of addresses: 4,294,967,296 total
+
 ## IP datagram encapsulation
 1. version
 2. header lenght (20 bytes)

@@ -56,6 +56,10 @@ Instantiation: actual implementation
 - CLOSE_WAIT
 - CLOSED, no futher communication
 
+Types of handshake
+- 3 way handshake: SYN (c to s) -> SYN/ACK (s to c) -> ACK (c to s)
+- 4 way handshake: FIN (c to s) - ACK (s to c) - FIN (s to c) - ACK (c to s)
+
 ## Connection
 Connection-oriented protocol
 	Established a connection, to ensure that all data has been properly transmitted
