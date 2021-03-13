@@ -44,3 +44,30 @@ USENET created, soon to be dial-up
 ## [[Broadband Connection]]
 ## [[Wide Area Network vs PPVPN]]
 ## [[Wireless Networking]]
+
+
+# Troubleshooting network problems
+## ICMP
+Internet Control Message Protocol
+> a way of communicating why a transmission has failed, used by router or remote host
+
+Fields:
+1. Type (8)
+2. Code (8)
+3. Checksum (16)
+4. Rest of the header (32)
+5. Data section (payload, to know which transmission caused the error)
+
+Ping
+> send a special type of ICMP message called an **echo request**
+
+if on, it will send back **echo reply**
+
+## Traceroute
+> utility to discover the path between two nodes, and give info about each hop along the way
+
+## Public DNS Servers
+
+# [[Cloud]]
+
+# [[IPv6]]
