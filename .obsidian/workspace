@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "537623e29f65d122",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b75b1bf56bb957",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d38d63264a2b65c",
+    "type": "split",
+    "children": [
+      {
+        "id": "63527e7d9dc9499a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afa4e0c3c2c41fc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ccb1a766e28bb2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d977156fcc956b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "18ae6b333302309b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c72718a95d2e593",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__.md",
+    "Coursera - Google IT Support Professional Certificate/C5 - IT Security/defenses againts the digital dark arts.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Subnetting.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Routing.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Physical layer.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Networking devices.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Network layer.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/IP address.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Data link layer.md"
+  ]
+}
