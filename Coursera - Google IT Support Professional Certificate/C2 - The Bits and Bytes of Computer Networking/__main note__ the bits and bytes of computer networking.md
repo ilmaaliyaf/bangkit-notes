@@ -1,50 +1,46 @@
 #computer
+Instructor: Victor Escobendo - Corporate Operation Engineer
 
 # 1 Intro
-
-Instructor: Victor Escobendo - Corporate Operation Engineer
 
 Computer communicates with bit and bytes
 
 Protocol
-	a defined set of standards that computers must follow in order to communicate properly
+>a defined set of standards that computers must follow in order to communicate properly
+
 Computer networking
-	full scope of how computers communicate with each other
+>full scope of how computers communicate with each other
 
 Two party:
 - Server
 - Client
 
-TCP/IP five layer model
-![[Pasted image 20210312112342.png]]
+How we model the network:
+[[TCP IP five layer model]]
 
-## The TCP/IP Five-Layer Network Model
-1. [[Physical layer]]
-	connecting computers physically: cabels, connectors
-2. [[Data link layer]]
-	responsible for defining a common way of interpreting these signals so network devices can communicate
-3. [[Network layer]]
-	allows different networks to communicate with each other through devices know as routers
-	- Internetwork: collection of networks connected together through routers
-	- Internet Protocol (IP)
-	- emails, web pages
-4. [[Transport layer]]
-	sorts out which client and server program are supposed to get that data
-	- Transmission Control Protocol
-	- User Diagram Protocol
-5. [[Application layer]]
-
-![[Pasted image 20210312113259.png]]
-
-other model: OSI
+Other model: OSI
 Read more: [SANS Institute: Reading Room - Standards](https://www.sans.org/reading-room/whitepapers/standards/paper/543)
 
 # [[Networking devices]]
 
-# Networking Services
-The purpose of computer networking is to make sure network sevices can be available to answer requests for the data from clients.
-There are network services that are used to help make computer networking more ==user friendly== and ==secure==.
-- [[Name Resolution]]
-- [[Dynamic Host Configuration Protocol]]
-- [[Network Address Translation]]
-- [[VPNs and Proxies]]
+# [[Networking services]]
+
+# [[Internet]]
+## History
+PSTN/POTS already global
+1970s 
+USENET created, soon to be dial-up
+
+> baud rate: number of bits sent across a telephone line every second
+
+## Dial-up Connection
+- Use POTS (plain old telephone service) for data transfer.
+- Connecting by actually dialing a phone number.
+- Use device called modulator (modem) demodulator.
+- Main way of how computer connects to each other for several decades
+
+## [[Silos]]
+## [[POTS and Dial-up]]
+## [[Broadband Connection]]
+## [[Wide Area Network vs PPVPN]]
+## [[Wireless Networking]]

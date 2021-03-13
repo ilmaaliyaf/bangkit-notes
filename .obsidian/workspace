@@ -6,11 +6,45 @@
       {
         "id": "ce2b90000ae34524",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e568d09d09f3e17d",
+        "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/[attachments]/Pasted image 20210313121853.png"
+            "file": "Wide Area Network vs PPVPN.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ed073d8f8216f137",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Broadband Connection.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "defffa828d0773c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/Networking services.md",
+            "mode": "source"
           }
         }
       },
@@ -87,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/[attachments]/Pasted image 20210313121853.png",
+                "file": "Wide Area Network vs PPVPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/[attachments]/Pasted image 20210313121853.png"
+                "file": "Wide Area Network vs PPVPN.md"
               }
             }
           }
@@ -125,15 +159,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "[attachments]/Pasted image 20210313121853.png",
-    "VPNs and Proxies.md",
+    "Wide Area Network.md",
     "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 4/Name Resolution.md",
-    "Dynamic Host Configuration Protocol.md",
-    "Network Address Translation.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 2/IP address.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 2/Network layer.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 1/Data link layer.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 3/Transport layer.md"
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Broadband Connection.md",
+    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Internet.md",
+    "Internet.md",
+    "Networking services.md",
+    "README.md",
+    "T-carrier technologies.md",
+    "Broadband Connection.md",
+    "Cable Broadband.md"
   ]
 }
