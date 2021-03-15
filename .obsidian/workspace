@@ -10,40 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Wireless Networking.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f1c96b59cb1945d9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a0d1955a3899c18b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IPv6.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ca0a02230a56fd6c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cloud.md",
+            "file": "Coursera - Google IT Support Professional Certificate/C3 - Operating Systems and You/__main note__operating systems and you.md",
             "mode": "source"
           }
         }
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Wireless Networking.md",
+                "file": "Coursera - Google IT Support Professional Certificate/C3 - Operating Systems and You/__main note__operating systems and you.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Wireless Networking.md"
+                "file": "Coursera - Google IT Support Professional Certificate/C3 - Operating Systems and You/__main note__operating systems and you.md"
               }
             }
           }
@@ -148,6 +115,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Coursera - Google IT Support Professional Certificate/C3 - Operating Systems and You/__main note__operating systems and you.md",
+    "Untitled.md",
     "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Wireless Networking.md",
     "IPv6.md",
     "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/__main note__ the bits and bytes of computer networking.md",
@@ -155,8 +124,6 @@
     "Wide Area Network vs PPVPN.md",
     "Wireless Networking.md",
     "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Broadband Connection.md",
-    "Wide Area Network.md",
-    "Coursera - Google IT Support Professional Certificate/C2 - The Bits and Bytes of Computer Networking/Week 5/Internet.md",
-    "Internet.md"
+    "Wide Area Network.md"
   ]
 }

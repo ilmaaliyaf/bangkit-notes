@@ -1,4 +1,4 @@
-#computer
+#computerscience
 Instructor: Victor Escobendo - Corporate Operation Engineer
 
 # 1 Intro
@@ -70,4 +70,4 @@ if on, it will send back **echo reply**
 
 # [[Cloud]]
 
-# [[IPv6]]
+# [[🍀 projects/2021-06-31 👩‍💻 bangkit - notes/IPv6]]

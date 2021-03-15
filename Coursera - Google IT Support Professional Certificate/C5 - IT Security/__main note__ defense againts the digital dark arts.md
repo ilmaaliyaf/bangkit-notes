@@ -70,3 +70,55 @@ Social engineering attack
 	- spoofing
 	- baiting
 	- tailgating
+
+
+
+# Cryptography
+- hiding info from unwanted recipients
+
+
+security through obscurity
+
+## symmetric cryptography
+
+## asymmetric cryptogtaphy
+
+## hashing
+> a type of function or operation that takes in an aribitrary data input and maps it to an output of fixed size, called a hash or digest
+
+N-data (variable length) --> hash function --> hash value (fixed length)
+
+> you feed in any amount of data into a hash function and the resulting output will always be the same size, but the output should be unique to the input, such that two different inputs should never yield the same output.
+
+- for uniquely identify data
+- much faster search
+- one directional
+- ideally should be deterministic, the same input value should always return the same hash value
+- should not contain hash collisions: two different inputs mapping to the same output
+- operate on blocks of data
+
+### hashing algorithms
+- MD5
+	- 1992
+	- 512 bit blocks, generates 128 bit hash digest
+	- suspectible to hash collision
+		- flame malware
+- SHA1 (secure hash algorithm)
+	- 1995
+	- 512 bit blocks, generates 160 bit hash digest
+	- used in VCS
+	- 2000, 2015, 2017 - hash collision
+		- proved have full hash collision
+- MIC (message integrity check)
+### authentication
+attacks
+- brute force attacks
+- rainbow table
+protects
+- password salt: additional randomized data
+
+### public key infrastructure
+- digital sertificate
+- registration authority
+
+[[Code - Encryption with MD5 and SHA]]
